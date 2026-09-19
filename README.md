@@ -41,9 +41,10 @@
 </div>
 
 
-
+<div align=center>
 
 ---
 ![alt text](https://media1.tenor.com/m/3mY6qVkXak8AAAAC/suzumiya-haruhi-kyon.gif)
 ---
 
+</div>
