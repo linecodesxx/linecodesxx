@@ -6,7 +6,7 @@
 
 
 <div align=center>
-    <h3> my stack </h3>
+    <h2> my stack </h3>
 </div>
 
 ### languages
