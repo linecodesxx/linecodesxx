@@ -1,6 +1,8 @@
-# Hi there, I`m Khachatur
+<div align=center>
+<h1> Hi there, I`m Khachatur </h1>
+</div>
 
-💻 Developer </br>
+💻 Software-Developer </br>
 📍 Russia, Togliatty </br>
 ❤️ Love Jesus and coding </br>
 
@@ -49,7 +51,7 @@
 <div align=center>
 
 ---
-![alt text](https://media1.tenor.com/m/3mY6qVkXak8AAAAC/suzumiya-haruhi-kyon.gif)
+![meow](https://media1.tenor.com/m/3mY6qVkXak8AAAAC/suzumiya-haruhi-kyon.gif)
 ---
 
 </div>
