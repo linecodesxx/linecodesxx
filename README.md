@@ -22,7 +22,7 @@
 
 </div>
 
-### web frameworks <br>
+### frameworks <br>
 
 <div align=center>
 
