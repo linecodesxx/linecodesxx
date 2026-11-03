@@ -6,6 +6,16 @@
 📍 Russia, Togliatty </br>
 ❤️ Love Jesus and coding </br>
 
+<div align=center>
+    <h2> my projects </h2>
+    <a href="https://animaxia-watch.ru"> Animaxia - Watch anime everywhere </a>
+    
+    <h3> Moodie - a moodboard ios app written on swift </h3>
+
+    <h3> Somewhere - a geo wishlist written on swift </h3>
+    
+</div>
+
 
 <div align=center>
     <h2> my stack </h3>
