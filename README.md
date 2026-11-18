@@ -72,7 +72,7 @@ A native iOS moodboard app for collecting visual inspiration, organizing ideas, 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 <div align="center">
-  <img width="30%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/eaac1461-f8b8-48a5-bb5e-aea80c0cdd1f" />
+  <img width="30%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b6990e25-d8fd-4600-baf2-c09161d3e8c2" />
   <img width="30%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/82d98133-7598-4988-a9c8-f00183a0dd74" />
   <img width="30%" alt="Screenshot 3" src="https://github.com/user-attachments/assets/c13263c8-f485-4b92-bd80-5bb8bab7cf30" />
 </div>
