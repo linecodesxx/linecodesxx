@@ -91,14 +91,9 @@ A native iOS geo-wishlist app for saving places you want to visit and keeping yo
 
 
 <div align="center">
-  <img width="30%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/eaac1461-f8b8-48a5-bb5e-aea80c0cdd1f" />
-  <img width="30%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/510f1837-b5cb-43f5-8ae5-7419bcd66fad" />
-  <img width="30%" alt="Screenshot 3" src="https://github.com/user-attachments/assets/e70a135f-18e5-43da-ab3d-d5478f6d04fc" />
-  <br/>
-  <img width="30%" alt="Screenshot 4" src="https://github.com/user-attachments/assets/cb919d08-592e-4059-820d-e4cf16aaee32" />
-  <img width="30%" alt="Screenshot 5" src="https://github.com/user-attachments/assets/d2ab7439-6172-42d9-9e2a-f18bf2555bf2" />
-  <br/>
-  <img width="65%" alt="Screenshot 6" src="https://github.com/user-attachments/assets/cac9c799-d3bc-4891-82b2-5017027e4d43" />
+ <img width="30%" height="2622" alt="collections" src="https://github.com/user-attachments/assets/48f15675-e472-47df-911f-69418ffceb80" />
+ <img width="30%" height="2622" alt="places" src="https://github.com/user-attachments/assets/0e4472d3-1075-4964-93a5-020dc6bbaaf4" />
+ <img width="30%" height="2622" alt="place-detail" src="https://github.com/user-attachments/assets/3761cc10-5409-4a16-a56f-e7e2e6dd0ab2" />
 </div>
 
 ---
