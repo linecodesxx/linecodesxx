@@ -85,7 +85,17 @@ A native iOS geo-wishlist app for saving places you want to visit and keeping yo
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=apple&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-34C759?style=flat-square&logo=applemaps&logoColor=white)
 
-*Screenshots coming soon.*
+
+<div align="center">
+  <img width="30%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/eaac1461-f8b8-48a5-bb5e-aea80c0cdd1f" />
+  <img width="30%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/510f1837-b5cb-43f5-8ae5-7419bcd66fad" />
+  <img width="30%" alt="Screenshot 3" src="https://github.com/user-attachments/assets/e70a135f-18e5-43da-ab3d-d5478f6d04fc" />
+  <br/>
+  <img width="30%" alt="Screenshot 4" src="https://github.com/user-attachments/assets/cb919d08-592e-4059-820d-e4cf16aaee32" />
+  <img width="30%" alt="Screenshot 5" src="https://github.com/user-attachments/assets/d2ab7439-6172-42d9-9e2a-f18bf2555bf2" />
+  <br/>
+  <img width="65%" alt="Screenshot 6" src="https://github.com/user-attachments/assets/cac9c799-d3bc-4891-82b2-5017027e4d43" />
+</div>
 
 ---
 
